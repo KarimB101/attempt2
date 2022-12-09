@@ -31,10 +31,12 @@ In this project code was refactored and edited to make the code better organized
 N/A
 
 ## Visuals
-pre class changes in style.PNG
-C:\Users\karim\Documents\bootcamp\Activity-1\attempt2\assets\images\pre class changes in style.PNG
-C:\Users\karim\Documents\bootcamp\Activity-1\attempt2\assets\images\post class changes in style.png
-post class changes in style.png
+pre class changes in style.PNG -before class changes in css were edited
+post class changes in style.png -after class changes in css were edited
+index pre-edit.PNG - index.html before changes
+index post-edit.PNG - index.html after changes
+assets\images\css format for gap in webpage.png -with gap in webpage
+assets\images\css format to remove gap in webpage.PNG -without gap in webpage
 
 ## Installation
 N/A
