@@ -38,7 +38,6 @@ https://imgur.com/r4YpiEU [post-edit-index-changes]
 https://imgur.com/07Y7OfC [css format withoutgap in webpage] 
 https://imgur.com/XXtw3mC [css format with gap in webpage]
 https://imgur.com/sOK4yge [gap in webpage browser]
-! [webpage gap](https://github.com/KarimB101/attempt2/blob/main/assets/images/gap%20in%20webpage.PNG)
 
 ## Installation
 N/A
