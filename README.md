@@ -67,3 +67,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Project status
 Deployment has been published and ready for review by site users.
+https://karimb101.github.io/attempt2/ 
+https://github.com/KarimB101/attempt2.git 
