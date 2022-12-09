@@ -31,12 +31,14 @@ In this project code was refactored and edited to make the code better organized
 N/A
 
 ## Visuals
-pre class changes in style.PNG -before class changes in css were edited
-post class changes in style.png -after class changes in css were edited
-index pre-edit.PNG - index.html before changes
-index post-edit.PNG - index.html after changes
-assets\images\css format for gap in webpage.png -with gap in webpage
-assets\images\css format to remove gap in webpage.PNG -without gap in webpage
+https://imgur.com/e1v6OFK [pre-class-changes]
+https://imgur.com/L4m17BJ [post-class-changes]
+https://imgur.com/x7omsxn [pre-edit-changes-index]
+https://imgur.com/r4YpiEU [post-edit-index-changes]
+https://imgur.com/07Y7OfC [css format withoutgap in webpage] 
+https://imgur.com/XXtw3mC [css format with gap in webpage]
+https://imgur.com/sOK4yge [gap in webpage browser]
+! [webpage gap](https://github.com/KarimB101/attempt2/blob/main/assets/images/gap%20in%20webpage.PNG)
 
 ## Installation
 N/A
